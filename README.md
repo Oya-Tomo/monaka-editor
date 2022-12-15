@@ -1,8 +1,8 @@
 # Monaka Editor ~ content-editable div controlling
 
-<div style="text-align: center;">
+<p align="center">
     <img src="./assets/monaka.png" alt="monaka" title="monaka" width=300>
-</div>
+</p>
 
 ## description
 
